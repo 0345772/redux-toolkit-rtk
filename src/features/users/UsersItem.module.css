@@ -1,0 +1,13 @@
+.user {
+  border: 1px solid teal;
+  margin: 3px 10px;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.email{
+  color: blue;
+  font-style: italic;
+  font-size: 16px;
+}

@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Vseznayka",
+      "email": "vbnm@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "neuk",
+      "email": " @gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Socrat",
+      "email": "@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Барабаш",
+      "email": "Барабаш@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Стольник",
+      "email": "Стольник@gmail.com",
+      "id": 5
+    },
+    {
+      "name": "Nu, pogodi!",
+      "email": "Nu, pogodi!@gmail.com",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "title": "rtyuio",
+      "body": "rtyuio - это новый пост",
+      "id": 1
+    },
+    {
+      "title": "Акапулька",
+      "body": "Акапулька - это новый пост",
+      "id": 2
+    },
+    {
+      "title": "Трульбадос",
+      "body": "Трульбадос - это новый пост",
+      "id": 3
+    },
+    {
+      "title": "Моноккіо",
+      "body": "Моноккіо - это новый пост",
+      "id": 4
+    },
+    {
+      "title": "Sergo",
+      "body": "Sergo - это новый пост",
+      "id": 5
+    }
+  ],
+  "comments": [
+    {
+      "id": 3,
+      "name": "odio adipisci rerum aut animi",
+      "email": "Nikita@garfield.biz",
+      "body": "quia molestiae reprehenderit quasi aspernatur\naut expedita occaecati aliquam eveniet laudantium\nomnis quibusdam delectus saepe quia accusamus maiores nam est\ncum et ducimus et vero voluptates excepturi deleniti ratione"
+    },
+    {
+      "id": 4,
+      "name": "alias odio sit",
+      "email": "Lew@alysha.tv",
+      "body": "non et atque\noccaecati deserunt quas accusantium unde odit nobis qui voluptatem\nquia voluptas consequuntur itaque dolor\net qui rerum deleniti ut occaecati"
+    },
+    {
+      "name": "My Lave",
+      "email": "Den@gmail.com",
+      "body": "I live You!",
+      "id": 7
+    },
+    {
+      "name": "Hello, my frend!",
+      "email": "Den",
+      "body": "My name is Den",
+      "id": 8
+    },
+    {
+      "name": "Artem",
+      "email": "Fedotovech=@gmail.com",
+      "body": "trula-la",
+      "id": 9
+    }
+  ]
+}
