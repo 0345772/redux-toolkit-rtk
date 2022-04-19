@@ -3,7 +3,7 @@ import { IPost } from "../../models";
 import { postAPI } from "./postAPI";
 import PostItem from "./PostItem";
 
-export const PostContainter = () => {
+export const PostContainer = () => {
 
   const [limit] = useState(10);
   const { data: posts } = postAPI.useFetchAllMyPostsQuery(limit);
@@ -29,8 +29,6 @@ export const PostContainter = () => {
   return (
     <div
       className="post-containter">
-
-      <h3>Список постов:</h3>
 
       <button onClick={handleCreatePost}>Add Post</button>
 

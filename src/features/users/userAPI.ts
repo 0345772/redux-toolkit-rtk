@@ -5,7 +5,7 @@ import { IUser } from '../../models';
 export const userAPI = createApi({
   reducerPath: "userAPI",
   tagTypes: ["Users"],
-  baseQuery: fetchBaseQuery({ baseUrl: `http://localhost:3001/` }),
+  baseQuery: fetchBaseQuery({ baseUrl: `https://jsonplaceholder.typicode.com/` }),
   endpoints: (build) => ({
 
     fetchAllUsers: build.query<IUser[], number>({

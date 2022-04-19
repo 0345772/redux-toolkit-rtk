@@ -6,11 +6,6 @@
       "id": 1
     },
     {
-      "name": "neuk",
-      "email": " @gmail.com",
-      "id": 2
-    },
-    {
       "name": "Socrat",
       "email": "@gmail.com",
       "id": 3
@@ -29,6 +24,11 @@
       "name": "Nu, pogodi!",
       "email": "Nu, pogodi!@gmail.com",
       "id": 6
+    },
+    {
+      "name": "Fedor",
+      "email": "Fedor@gmail.com",
+      "id": 7
     }
   ],
   "posts": [
@@ -56,6 +56,11 @@
       "title": "Sergo",
       "body": "Sergo - это новый пост",
       "id": 5
+    },
+    {
+      "title": "Ket",
+      "body": "Ket - это новый пост",
+      "id": 6
     }
   ],
   "comments": [

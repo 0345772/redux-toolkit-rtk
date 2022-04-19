@@ -26,7 +26,6 @@ export const CommentContainer = () => {
 
   return (
     <div >
-      <h3>Список комментариев:</h3>
       <button onClick={handleCreate}>Add comment</button>
       <ol >
         {comments && comments.map((comment, i) =>

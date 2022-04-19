@@ -28,9 +28,7 @@ export const UserContainer = () => {
 
 
   return (
-    <div>
-      <strong style={{ marginLeft: "10%", display: "block" }}> Список пользователей:</strong>
-
+    <div> 
       <div style={{ display: "flex", margin: "15px 5%" }}>
 
         <select value={limit} onChange={(e) => setLimit(+e.target.value)} >
